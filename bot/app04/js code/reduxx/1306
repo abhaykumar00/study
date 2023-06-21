@@ -1,0 +1,9 @@
+redux is state management library
+import {createStore,combineReducers}from 'redux';
+//combineReducers ,this is a redux given name and use for combine the multiple Reducer with this
+//createStore
+
+//once reducer are create -
+1- combine them
+2-create a store from them
+  

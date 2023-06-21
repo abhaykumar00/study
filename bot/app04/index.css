@@ -1,0 +1,43 @@
+p {
+    text-decoration: underline wavy blue ;
+  }
+  #parent1{
+    color: blue;
+  }
+#parent2{
+  display: grid;
+  color: white;
+  background-color: black;
+  padding: 30px;
+  margin: 30px;
+  position: absolute;
+  text-align: center;
+  font-family: Arial, sans-serif;
+font-size:10px;
+font-weight:bold;
+font-style:italic;
+line-height:3;
+text-align:center;
+text-decoration:underline coral;
+text-transform:uppercase;
+text-indent:100px;
+letter-spacing:2px;
+white-space:nowrap;
+word-spacing:40px;
+background-color: #f3b3b3;
+background-image: url('../Nature-Lake-Bled.-Desktop-background-image.jpg');
+background-repeat: repeat-y;
+background-position: center top;
+background-size:cover;
+border-color: #000000;
+border-style:dotted;
+border-width: 2px;
+border-radius: 50px;
+box-shadow: 2px 2px 4px rgb(142, 10, 10);
+outline: 10px solid #999999;
+outline-style: dotted;
+outline-width: 20px;
+background: #701111 url('./Nature-Lake-Bled.-Desktop-background-image.jpg') no-repeat center;
+
+}
+  
